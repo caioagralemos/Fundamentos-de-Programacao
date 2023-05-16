@@ -8,8 +8,8 @@ https://www.thehuxley.com/problem/22?quizId=7405 (tabuada)
 Condicionais - 
 https://www.thehuxley.com/problem/510?quizId=7406 (ingresso no cinema)
 https://www.thehuxley.com/problem/1078?quizId=7406 (aprovado ou reprovado)
-https://www.thehuxley.com/problem/1524?quizId=7406 (aumento condicional)
-https://www.thehuxley.com/problem/1532?quizId=7406 (preço da gasolina)
+https://www.thehuxley.com/problem/3387?locale=pt_BR (carteira de habilitação)
+https://www.thehuxley.com/problem/2145?locale=pt_BR (controle de armas)
 
 
 Bonus - Funções (Calculadora)
